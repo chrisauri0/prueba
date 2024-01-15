@@ -1,0 +1,7 @@
+eco "# prueba" >> README.md
+git init
+git añadir README.md
+git commit -m "primer commit"
+rama git - M principal
+git remote agregar origen https://github.com/chrisauri0/prueba.git
+git push -u origen principal
